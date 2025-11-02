@@ -8,3 +8,5 @@ scipy==1.15.3
 six==1.17.0
 statsmodels==0.14.5
 tzdata==2025.2
+matplolib==3.10.3
+seaborn==0.13.3
